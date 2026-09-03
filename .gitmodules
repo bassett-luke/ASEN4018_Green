@@ -1,0 +1,3 @@
+[submodule "asen4018-green-fsw"]
+	path = asen4018-green-fsw
+	url = https://github.com/bassett-luke/asen4018-green-fsw
